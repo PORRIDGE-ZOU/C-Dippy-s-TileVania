@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rarraa
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Bouncing
+  - Rarraa
+  - Hazard
+  - Arrow
+  - Interactables
+  - Coins
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ladder
+    uniqueID: 2443533001
+    locked: 0
+  - name: Bouncing
+    uniqueID: 2057415243
+    locked: 0
+  - name: C-Dippy
+    uniqueID: 204859803
+    locked: 0
+  - name: Rarraa
+    uniqueID: 4143600657
+    locked: 0
+  - name: Hazard
+    uniqueID: 3464539671
+    locked: 0
