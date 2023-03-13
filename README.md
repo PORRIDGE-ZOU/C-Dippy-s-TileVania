@@ -1,4 +1,4 @@
-# C-Dippy's TileVania
+# TileVania
 This is my fourth unity game project from the Udemy Course: Complete C# Unity Game Developer 2D.
 For Demo Videos, see https://www.youtube.com/watch?v=Yy9LpunInXw&t=0s
 
